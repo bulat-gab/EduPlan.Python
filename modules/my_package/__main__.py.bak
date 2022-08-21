@@ -1,0 +1,6 @@
+from base1 import person1
+
+if __name__ == "__main__":
+    print("you are running my_package module as a script")
+    print("Person1 is ", person1)
+
